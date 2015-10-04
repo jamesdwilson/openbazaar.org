@@ -1,5 +1,5 @@
 $(function () {
-    var slideAdvanceDelay = 1000;
+    var slideAdvanceDelay = 6000;
     var animationDelay = 400;
     var imagePath = 'assets/img/';
 
